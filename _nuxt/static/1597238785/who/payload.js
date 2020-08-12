@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/who", {data:[{}],fetch:[],mutations:[]});
